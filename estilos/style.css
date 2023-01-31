@@ -14,3 +14,13 @@ main{
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.374); 
 }
+
+h1{
+    font-size: 25px;
+    color: blue;
+}
+
+h2{
+    font-size: 18px;
+    color: blue;
+}
