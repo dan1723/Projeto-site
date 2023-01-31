@@ -24,3 +24,7 @@ h2{
     font-size: 18px;
     color: blue;
 }
+
+img.lado{
+    float: right;
+}
